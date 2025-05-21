@@ -10,7 +10,7 @@ function Price() {
        <div data-aos="zoom-in-right">
         <PriceCart time="3 Month" price="19.99" />
         </div>
-        
+  <h1>Hello</h1>        
 
         <div data-aos="zoom-in-right">
         <PriceCart time="9 Month" price="39.36" />
